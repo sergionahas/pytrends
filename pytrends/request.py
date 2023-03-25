@@ -12,7 +12,7 @@ from pytrends import exceptions
 from urllib.parse import quote
 
 
-BASE_TRENDS_URL = 'https://trends.google.com/trends'
+BASE_TRENDS_URL = 'https://trends.google.com/trends/explore'
 
 
 class TrendReq(object):
